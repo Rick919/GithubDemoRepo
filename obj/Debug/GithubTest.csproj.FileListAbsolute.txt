@@ -5,3 +5,10 @@ C:\Users\Tariq\source\repos\GithubTest\obj\Debug\GithubTest.csproj.AssemblyRefer
 C:\Users\Tariq\source\repos\GithubTest\obj\Debug\GithubTest.csproj.CoreCompileInputs.cache
 C:\Users\Tariq\source\repos\GithubTest\obj\Debug\GithubTest.exe
 C:\Users\Tariq\source\repos\GithubTest\obj\Debug\GithubTest.pdb
+C:\Users\Tariq\source\repos\GithubDemoRepo\bin\Debug\GithubTest.exe.config
+C:\Users\Tariq\source\repos\GithubDemoRepo\bin\Debug\GithubTest.exe
+C:\Users\Tariq\source\repos\GithubDemoRepo\bin\Debug\GithubTest.pdb
+C:\Users\Tariq\source\repos\GithubDemoRepo\obj\Debug\GithubTest.csproj.AssemblyReference.cache
+C:\Users\Tariq\source\repos\GithubDemoRepo\obj\Debug\GithubTest.csproj.CoreCompileInputs.cache
+C:\Users\Tariq\source\repos\GithubDemoRepo\obj\Debug\GithubTest.exe
+C:\Users\Tariq\source\repos\GithubDemoRepo\obj\Debug\GithubTest.pdb
